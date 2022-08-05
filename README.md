@@ -17,3 +17,9 @@
 
 <img src="https://github.com/ananya-agarwal/Certificates/blob/main/Udemy_PublicSpeaking.png" width=900>
 <br>
+
+<img src="https://github.com/ananya-agarwal/Certificates/blob/main/data%20Science_1.png" width=900>
+<br>
+
+<img src="https://github.com/ananya-agarwal/Certificates/blob/main/data%20Science_2.png" width=900>
+<br>
