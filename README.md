@@ -24,6 +24,3 @@
 <img src="https://github.com/ananya-agarwal/Certificates/blob/main/data%20Science_2.png" width=900>
 <br>
 
-<img src="https://github.com/ananya-agarwal/Certificates/files/11460235/Udemy_javascript.pdf" width=900>
-<br>
-[Udemy_javascript.pdf](https://github.com/ananya-agarwal/Certificates/files/11460235/Udemy_javascript.pdf)
