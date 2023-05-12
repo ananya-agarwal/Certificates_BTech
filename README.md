@@ -27,5 +27,5 @@
 <img src="https://github.com/ananya-agarwal/Certificates/blob/main/Udemy_Javascript.png" width=900>
 <br>
 
-<img src="[https://github.com/ananya-agarwal/Certificates/blob/main/Udemy_Javascript.png](https://github.com/ananya-agarwal/Certificates/blob/main/Communicate%20to%20Connect%20-%20Amplifying%20Your%20Impact%201200x628_1%402x.png)" width=900>
+<img src="https://github.com/ananya-agarwal/Certificates/blob/main/Udemy_Javascript.png](https://github.com/ananya-agarwal/Certificates/blob/main/Communicate%20to%20Connect%20-%20Amplifying%20Your%20Impact%201200x628_1%402x.png" width=900>
 <br>
